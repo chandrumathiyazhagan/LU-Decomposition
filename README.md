@@ -53,8 +53,10 @@ print(res)
 
 ## Output:
 (i) To find the L and U matrix:
+
 ![Screenshot (82)](https://github.com/chandrumathiyazhagan/LU-Decomposition/assets/119393023/366af220-3947-4831-809f-19e328929c42)
 (ii) To find the LU Decomposition of a matrix:
+
 ![Screenshot (82)](https://github.com/chandrumathiyazhagan/LU-Decomposition/assets/119393023/ea4a4725-2b1d-4d77-94a6-546a71200d4e)
 
 
